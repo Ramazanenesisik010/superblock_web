@@ -1,0 +1,8 @@
+{
+    "class":"com.mojang.ld22.GameApplet",
+    "display_name":"Minicraft",
+    "author":"Notch",
+    "no_accessible":false,
+    "libs":[
+    ]
+}

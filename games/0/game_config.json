@@ -1,0 +1,17 @@
+{
+    "class":"linkan.minild59.game.GameLauncher",
+    "display_name":"Dungeon Of Keys",
+    "author":"Linkan",
+    "no_accessible":false,
+    "libs":[
+        {
+            "path":"gnu-getopt.jar"
+        },
+        {
+            "path":"log4j.jar"
+        },
+        {
+            "path":"SoundHelix.jar"
+        }
+    ]
+}
