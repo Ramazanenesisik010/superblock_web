@@ -1,0 +1,19 @@
+{
+    "games":[
+        {
+            "id":0,
+            "name":"Dungeon Of Keys",
+            "author":"Linkan"
+        },
+        {
+            "id":1,
+            "name":"Apple Game",
+            "author":"Enes"
+        },
+        {
+            "id":2,
+            "name":"Minicraft",
+            "author":"Notch"
+        }
+    ]
+}
